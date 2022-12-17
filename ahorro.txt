@@ -1,0 +1,7 @@
+lunes $50
+martes $35
+miescoles $120
+jueves $200
+viernes $10
+sabado $50
+domingo $250
