@@ -5,3 +5,12 @@ jueves $200
 viernes $10
 sabado $50
 domingo $250
+
+segunda semana
+lunes 350
+martes $55
+miescoles $30
+jueves $0
+viernes $1330
+sabado $500
+domingo $2500
